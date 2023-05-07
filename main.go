@@ -12,4 +12,5 @@ func main() {
 	format.StringAndSliceOfBytes()
 	format.Slice()
 	format.Pointer()
+	format.Error()
 }
